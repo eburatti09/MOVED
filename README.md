@@ -1,4 +1,3 @@
-MOVED
-=====
+IMPORTANT!
 
-moved to github.com/bazk
+THIS REPOSITORY WAS MOVED TO github.com/bazk
